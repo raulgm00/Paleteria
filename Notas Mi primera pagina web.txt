@@ -1,0 +1,73 @@
+Siempre que susbimos una pagina web a la red el servidor de paga siempre busca la primera pagina por default : index.html
+
+Pagina para bajar imagenes png: http://www.deviantart.com/
+
+bootstrap cdn : un lugar en internet que nos hace referencia a un api que tiene todos los efectos 
+		- ventaja : el proyecto es mas ligero y renderea mas rapido
+		-  url : https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+		- Framework : html5, css, js
+		- responsibe
+		
+
+fuentes personalizadas:
+Google fonts: https://www.google.com/fonts
+
+Panel de colores: https://color.adobe.com/es/explore/newest/
+paleta de colores que nos hace un contraste aun mejor en nuestras webs
+
+
+
+
+Sintaxis HTML5:
+
+<div>: sirve para agrupar los elementos y asi aplicar css a todo el grupo y no a cada elmento
+<!-- --> : sirve para comentar lineas de codigo
+<a> : etiqueta para links
+.no-lista li{}: selector de elementos html
+Sintaxis de css:
+
+<articule> : elmentos importantes por si solo
+
+
+elemento_htmlt { asignacion de valores } : sirve para indicar que un elemento dentro de nuestra pagina tendra un cierto comportamiento
+.elemento{ asignacion de valores }: sirve para declarar una clase 
+
+sintaxis SUBLIMETEXT:
+Alt +Shif + 2 : abre dos pestañas en el editor de textos
+Listas desordenadas: nav>ul>li>a[http://]*5
+Menu navegacion : nav>a[http://]*5
+
+Utilitarios
+#Google Fonts: https://www.google.com/fonts
+#layouts Boostrap: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+#Paleta de colores: https://color.adobe.com/es/explore/newest/
+#Pagina de animaciones Css3: https://daneden.github.io/animate.css/
+#Google Drive: solo sirve para paginas estaticas / Gratis / No permite codigo de Bakend/
+
+
+//Facebook: https://www.facebook.com/raululises.garcia
+//Twiter: 
+//Blog:
+
+
+#SLIDER RESPONSIVO
+¿Como sacar el heigth del slider responsivo?
+proporcion de la img:
+Altura = heigth: 600
+Anchura = width: 800
+Dividir : Altura / Anchura : 600/800 = 0.75
+
+-Tecnisismos:
+#viewport: patte visible de la pagina web / scrol: fuera del viewport
+#Acortador de URL: 
+#Frontend: HTML5 / CSS3 / JavaScript (Estandarizado)
+#Backend : (multiples tecnologias) Node JS / Ruby / Pyton / PHP / Java
+#Gestor Base de Datos: Mongo DB (Base de datos no relacional)
+
+
+
+#ID_ Pagina:
+https://drive.google.com/drive/folders/0ByR9QgZV5cxAajNEakFwT1I5bmM?usp=sharing
+https://drive.google.com/open?id=0ByR9QgZV5cxAajNEakFwT1I5bmM
+
+http://www.editey.com/preview/0ByR9QgZV5cxAajNEakFwT1I5bmM/menu.html
